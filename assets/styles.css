@@ -141,7 +141,7 @@ html{
     flex-direction: row;
     justify-content: center;
     margin: 40px;
-    margin-right: 20px;
+    margin-left: 10%;
     color: #fafafa;
  }
  .footer2{
@@ -149,9 +149,9 @@ html{
     flex-direction: row;
     justify-content: center;
     list-style: none;
-    margin-left: 20px;
-    margin: 20px;
+    margin-left: 20%;
     text-decoration-color: #fafafa;
+    text-align: center;
  }
  .footer2 li{
     list-style: none;
